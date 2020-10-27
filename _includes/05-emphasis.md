@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a software developer from **Bulgaria**
+_I am proficient in **C\#**, and **Xamarin**_
+
+_I also enjoy reverse-engeneering apps in **Ida Pro**_ :smile:
